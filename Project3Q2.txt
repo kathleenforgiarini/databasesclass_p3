@@ -1,0 +1,26 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYDAYHH:MI:SS')                                                                 
+----------------------------------------------------------------------------------------------------------
+29 Janeiro   2023 Domingo       12:34:03
+
+
+Procedure P3QUESTION2 compilado
+
+The inventory number 1 has the item 3-Season Tent, the price is $259,99, the color is Sky Blue, the quantity 
+  on hand is 16 and the value is $4159,84
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+The inventory number 2 has the item 3-Season Tent, the price is $259,99, the color is Light Grey, the quantity 
+  on hand is 12 and the value is $3119,88
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+The inventory number 3 has the item Women's Hiking Shorts, the price is $29,95, the color is Khaki, the quantity 
+  on hand is 150 and the value is $4492,5
+
+
+Procedimento PL/SQL concluído com sucesso.
+

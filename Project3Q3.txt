@@ -1,0 +1,31 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYDAYHH:MI:SS')                                                                 
+----------------------------------------------------------------------------------------------------------
+29 Janeiro   2023 Domingo       12:41:17
+
+
+Function FIND_AGE compilado
+
+
+FIND_AGE('28-07-99')
+--------------------
+                  24
+
+
+Procedure P3QUESTION3 compilado
+
+The student number 1 is Sarah Miller, the birthday is 14/07/85, the age is 38
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+The student number 2 is Brian Umato, the birthday is 19/08/85, the age is 37
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+The student number 3 is Daniel Black, the birthday is 10/10/82, the age is 40
+
+
+Procedimento PL/SQL concluído com sucesso.
+

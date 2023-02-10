@@ -1,0 +1,23 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYDAYHH:MI:SS')                                                                 
+----------------------------------------------------------------------------------------------------------
+29 Janeiro   2023 Domingo       12:33:45
+
+
+Procedure P3QUESTION1 compilado
+
+Employee number 788 does not exist!
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+Employee number 7788 is SCOTT. He/she works in the department RESEARCH, earning $36000 a year.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+Employee number 7499 is ALLEN. He/she works in the department SALES, earning $19500 a year.
+
+
+Procedimento PL/SQL concluído com sucesso.
+

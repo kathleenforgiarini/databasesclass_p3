@@ -1,0 +1,42 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYDAYHH:MI:SS')                                                                 
+----------------------------------------------------------------------------------------------------------
+29 Janeiro   2023 Domingo       12:52:09
+
+
+Function FIND_C_SK_CERT compilado
+
+
+Function FIND_C_SK compilado
+
+
+Function FIND_SK compilado
+
+
+Function PRINT compilado
+
+
+Procedure P3QUESTION4 compilado
+
+Consultant first name: Mark.
+Consultant last name: Myers.
+Skill Description: VB .NET Programming.
+Certification: N.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+Consultant first name: Mark.
+Consultant last name: Myers.
+Skill Description: VB .NET Programming.
+Certification: Y.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+Skill 100 do not exist.
+Try again.
+
+
+Procedimento PL/SQL concluído com sucesso.
+
